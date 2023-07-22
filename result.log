@@ -1,0 +1,85 @@
+file -> file, Duration: 0ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 0ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 0ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 112ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 13ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 110ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 10ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 119ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 12ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 107ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 9ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 3ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 107ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 12ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> Не конвертувався (помилка)
+file -> file, Duration: 187ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 12ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> Не конвертувався (помилка)
+file -> file, Duration: 140ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 11ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 3ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 135ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 113ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 221ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 4ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 112ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> Не конвертувався (помилка)
+file -> file, Duration: 125ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 127ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+ -> Не конвертувався (помилка)
+ -> Не конвертувався (помилка)
+входному -> Не конвертувався (помилка)
+ -> Не конвертувався (помилка)
+ -> Не конвертувався (помилка)
+file -> file, Duration: 180ms, Old Size: 275 bytes, New Size: 160 bytes
+ -> Не конвертувався (помилка)
+ -> Не конвертувався (помилка)
+file -> file, Duration: 124ms, Old Size: 275 bytes, New Size: 160 bytes
+ -> Не конвертувався (помилка)
+ -> Не конвертувався (помилка)
+file -> file, Duration: 128ms, Old Size: 275 bytes, New Size: 160 bytes
+ -> Не конвертувався (помилка)
+ -> Не конвертувався (помилка)
+file -> file, Duration: 107ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 93ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 9ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 152ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+testFile.json -> Error occurred during conversion.
+testFile.json -> convertedFile.yaml, Duration: 50ms, Old Size: 1024 bytes, New Size: 512 bytes
+testFile.json -> Error occurred during conversion.
+testFile.json -> Error occurred during conversion.
+testFile.json -> Error occurred during conversion.
+file -> file, Duration: 158ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+testFile.json -> Error occurred during conversion.
+file -> file, Duration: 112ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 147ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 111ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 111ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 8ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 127ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 232ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 86ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 8ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 71ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 43ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 67ms, Old Size: 275 bytes, New Size: 160 bytes
+file -> file, Duration: 2ms, Old Size: 160 bytes, New Size: 250 bytes
+file -> file, Duration: 12ms, Old Size: 275 bytes, New Size: 160 bytes
